@@ -1,0 +1,20 @@
+{
+  "name": "my-gridsome-site",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@gridsome/source-airtable": "0.2.0",
+    "gridsome": "^0.7.17",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "gridsome-plugin-tailwindcss": "^4.1.1",
+    "postcss-import": "^15.0.0",
+    "postcss-preset-env": "^7.8.2",
+    "tailwindcss": "^3.2.3"
+  }
+}
